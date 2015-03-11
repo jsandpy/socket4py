@@ -1,0 +1,6 @@
+2015-03-11 10:17:30,156 - INFO:  {'id': 1, 'data': 'Hello World'} {'id': 2, 'data': 'Hello World'}
+2015-03-11 10:17:44,387 - INFO:  {'data': 'Hello World', 'id': 1} {'data': 'Hello World', 'id': 2}
+2015-03-11 10:19:15,675 - INFO:  {'id': 1, 'data': 'Hello World'} {'id': 1, 'data': 'Hello World'}
+2015-03-11 10:23:42,820 - INFO:  {'id': 1, 'data': 'Hello World'} {'id': 1, 'data': 'Hello World'}
+2015-03-11 10:23:44,540 - INFO:  {'id': 1, 'data': 'Hello World'} {'id': 1, 'data': 'Hello World'}
+2015-03-11 10:25:32,451 - INFO:  {'data': 'Hello World', 'id': 1}
